@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	width: 400px;
+	margin: 0 auto;
+}
+.container{
+	
+	
+	padding: 20px;
+	background-color: lightgrey;
+}
+.flex{
+	display: flex;
+}
+.flex-row{
+	flex-direction: row;
+	gap: 5px;
+	place-content: center;
+}
+nav{
+	background: hotpink;
+	padding: 25px;
+	justify-content: space-around;
+}
+
+
+.btn-group{
+	justify-content: space-evenly;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+button{
+	text-transform: uppercase;
+	font-size: 15px;
+	background-color: deeppink;
+	padding: 15px;
+	border-radius: 25px;
+
+}
+
+	button a {
+		text-decoration: none;
+		color: #FFF;	
+		font-weight: bold;
+	}
+
+.circles{
+	justify-content: space-between;
+}
+.destacado img{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+
+}	
+
+.main-cards{
+	width: 350px;
+	height: ;
+	border-radius: 0px 0 25px 25px;
+	background-color: lightpink;
+	margin-bottom: 25px;
+}
+.card-img{
+	overflow: hidden;
+	height: 400px;
+	border-radius: 0 0 25px 25px;
+}
+.card img{
+	width: 350px;
+}
+.padding{
+	padding: 25px;
+}
+.social{
+	justify-content: space-between;
+}

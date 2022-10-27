@@ -24,7 +24,11 @@ body{
 nav{
 	background: hotpink;
 	padding: 25px;
-	justify-content: space-around;
+	justify-content: space-between;
+}
+
+.gap{
+	gap: 15px;
 }
 
 

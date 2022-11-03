@@ -15,7 +15,8 @@ body{
 	
 	
 	padding: 20px;
-	background-color: lightgrey;
+	background-color: #F7F9F9  ;
+	box-shadow: ; /**derecha en diagonal abajo**/
 
 }
 .flex{
@@ -27,7 +28,7 @@ body{
 	place-content: center;
 }
 nav{
-	background: hotpink;
+	background: #9E5C68;
 	padding: 25px;
 	justify-content: space-between;
 
@@ -46,9 +47,12 @@ nav{
 button{
 	text-transform: uppercase;
 	font-size: 15px;
-	background-color: deeppink;
+	background-color: #B64663;
 	padding: 15px;
 	border-radius: 25px;
+	cursor: pointer;
+	border: none;
+	box-shadow: ; /**llenar despues**/
 
 }
 
@@ -91,12 +95,29 @@ button{
 }
 
 .nav-mobible{
-	padding: 20px;
-	background-color: red;
-	display: flex;
+	/*jsjs*/
+	background-color: #9E5C68;
 	position: fixed;
 	bottom: 0;
 	width: 400px;
+}
+
+.nav-ul{
 	
+	list-style-type: none;
+	justify-content: space-between;
+	width: 100%;
+	padding-left: 0;
+
+}
+
+li{
+	color:blak ;
+	cursor: pointer;
 	
 }
+
+.material-symbols-outlined.md-35{
+	font-size: 35px;
+}
+

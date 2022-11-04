@@ -6,7 +6,7 @@
 body{
 	width: 400px;
 	margin: 0 auto;
-
+	box-shadow: 28px 5px 15px -3px rgba(0,0,0,0.3); /**derecha en diagonal abajo**/
 
 }
 
@@ -16,7 +16,7 @@ body{
 	
 	padding: 20px;
 	background-color: #F7F9F9  ;
-	box-shadow: ; /**derecha en diagonal abajo**/
+	
 
 }
 .flex{
@@ -42,9 +42,10 @@ nav{
 .btn-group{
 	justify-content: space-evenly;
 	padding: 5px;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 button{
+	display: block;
 	text-transform: uppercase;
 	font-size: 15px;
 	background-color: #B64663;
@@ -52,7 +53,7 @@ button{
 	border-radius: 25px;
 	cursor: pointer;
 	border: none;
-	box-shadow: ; /**llenar despues**/
+	box-shadow: 7px 3px 6px 0px rgba(0,0,0,0.5);
 
 }
 
@@ -62,8 +63,17 @@ button{
 		font-weight: bold;
 	}
 
+
+		button:hover{
+			background-color: #78281F ;
+			transition: .5s;
+		}
+
+			
+	
 .circles{
 	justify-content: space-between;
+	margin-bottom: 15px;
 }
 .destacado img{
 	width: 100px;
@@ -72,6 +82,13 @@ button{
 
 }	
 
+/**Estilos para los H2 Destacados y Recientes**/
+
+.titles{
+		margin-bottom: 20px;
+		font-size: 18px;
+		color: /**#566573**/ #424949;
+	}	
 .main-cards{
 	width: 350px;
 	height: ;
@@ -100,6 +117,7 @@ button{
 	position: fixed;
 	bottom: 0;
 	width: 400px;
+	height: 78px;
 }
 
 .nav-ul{

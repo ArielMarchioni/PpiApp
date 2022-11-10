@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"blac",
+				"blanchedalmond"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ce",
+				"lecacy center"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"grey",
+				"lightgrey"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"sca",
+				"space-between"
+			],
+			[
+				"card-",
+				"card-img "
+			],
+			[
+				"pin",
+				"lightpink"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"s",
+				"safe center"
+			],
+			[
+				"btms",
+				"btn-group-sm "
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pink",
+				"deeppink"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"spa",
+				"space-evenly"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"bnt",
+				"button"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"fle",
+				"flex-flow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"e",
+				"expand-rev"
+			],
+			[
+				"bacgro",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"ro",
+				"row-reverse"
+			],
+			[
+				"sec",
+				"section-two"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margon",
+				"margin-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"b",
+				"space-between"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"bacn",
+				"background-color"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"overflow-",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"over",
+				"text-overflow\tproperty"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"bacgrodu",
+				"background-color\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"per",
+				"pre-wrap\twhite-space"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4134,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gerardoarielmarchioni/Desktop/carpeta sin título/style.css",
+		"/Users/gerardoarielmarchioni/git/PpiApp/style.css",
+		"/Users/gerardoarielmarchioni/git/PpiApp/maqueta.png",
+		"/Users/gerardoarielmarchioni/git/PpiApp/index.html",
+		"/Users/gerardoarielmarchioni/git/css-tips/marquesina/readme.md",
+		"/Users/gerardoarielmarchioni/git/css-tips/marquesina/style.css",
+		"/Users/gerardoarielmarchioni/git/css-tips/marquesina/marquesina.html",
+		"/Users/gerardoarielmarchioni/Desktop/style.css",
+		"/Users/gerardoarielmarchioni/Desktop/marquesina.html",
+		"/Users/gerardoarielmarchioni/Downloads/mauricio-artieda-fAG-SPeswjQ-unsplash.jpg",
+		"/SmoothScrolling.html",
+		"/Users/gerardoarielmarchioni/Desktop/masonry.html",
+		"/Users/gerardoarielmarchioni/git/CSS tips/TextClip/textclip.html",
+		"/Users/gerardoarielmarchioni/git/CSS tips/TextClip/style.css",
+		"/Users/gerardoarielmarchioni/Downloads/carrera/Bases de Datos/landing/style.css",
+		"/Users/gerardoarielmarchioni/Downloads/carrera/Bases de Datos/leak/AdminDeBaseDeDatos-main/Querys/tp1db.sql",
+		"/Users/gerardoarielmarchioni/Downloads/carrera/Bases de Datos/leak/AdminDeBaseDeDatos-main/Querys/JOINS-biblioteca.sql",
+		"/Users/gerardoarielmarchioni/Downloads/carrera/Bases de Datos/leak/AdminDeBaseDeDatos-main/Querys/joaquinsosa-joinsdb.sql",
+		"/Users/gerardoarielmarchioni/Desktop/landing/style.css",
+		"/Users/gerardoarielmarchioni/crispy-fiesta/landing/style.css",
+		"/Users/gerardoarielmarchioni/Desktop/landing/index.html",
+		"/Users/gerardoarielmarchioni/Desktop/carpeta sin título/media_data.css",
+		"/Users/gerardoarielmarchioni/Desktop/carpeta sin título/css/media_data.css",
+		"/Users/gerardoarielmarchioni/Desktop/carpeta sin título/data.html",
+		"/Users/gerardoarielmarchioni/Desktop/index.html",
+		"/Users/gerardoarielmarchioni/crispy-fiesta/landing/data.html",
+		"/Users/gerardoarielmarchioni/Desktop/untitled.py",
+		"/Users/gerardoarielmarchioni/Downloads/facebook-profile-page-ui-concept/src/index.html",
+		"/Users/gerardoarielmarchioni/Downloads/DPTI - Servicios ABC - Dirección Provincial de Tecnología de la Información.html",
+		"/Users/gerardoarielmarchioni/Desktop/moon project/style.css",
+		"/Users/gerardoarielmarchioni/Desktop/clases/scss/estilos.scss",
+		"/Users/gerardoarielmarchioni/Desktop/clases/index.html",
+		"/Users/gerardoarielmarchioni/Desktop/carpeta sin título/index.html",
+		"/Users/gerardoarielmarchioni/Downloads/Coronavirus-barbijos-master/index.html",
+		"/Users/gerardoarielmarchioni/Downloads/Coronavirus-barbijos-master/style.css",
+		"/Users/gerardoarielmarchioni/Desktop/untitled.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1542.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1712.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
